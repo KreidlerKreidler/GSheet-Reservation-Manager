@@ -10,6 +10,8 @@ This project automates the process of managing reservations using Google Sheets 
 
 ---
 
+![](https://i.postimg.cc/Tw0pPBg8/ezgif-com-animated-gif-maker-1.gif)
+
 ### Setup Instructions:
 
 #### Step 1: Set Up Google Sheets
