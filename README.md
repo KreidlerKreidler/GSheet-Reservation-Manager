@@ -33,7 +33,7 @@ This project automates the process of managing reservations using Google Sheets 
    - **Email Search Query**: Update the search query in `getEmailData.gs` to match the correct email sender and subject.
 
 #### Step 3: Set Up Triggers
-1. In the Apps Script editor, go to `Triggers` (clock icon).
+1. In the Apps Script editor, go to `Triggers`.
 2. Set the following triggers:
    - **onEdit Trigger**: For `onEditCheckbox`, `onEditManualCheckbox`, and `onEditColumnL`.
    - **Time-driven Trigger**: For `getEmailData` to periodically check for new emails (e.g., every 15 minutes).
