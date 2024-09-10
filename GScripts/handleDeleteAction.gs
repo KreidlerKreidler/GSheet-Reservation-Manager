@@ -1,5 +1,5 @@
 function onEditColumnL(e) {
-  var sheet = e.source.getSheetByName("Reservations_Sheet"); // Replace with your sheet name
+  var sheet = e.source.getSheetByName("sheet_name"); // Replace with your sheet name
   if (!sheet) {
     return;
   }
