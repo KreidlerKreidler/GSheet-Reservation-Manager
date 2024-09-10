@@ -15,6 +15,7 @@ This project automates the process of managing reservations using Google Sheets 
 #### Step 1: Set Up Google Sheets
 1. Create a Google Sheet for managing reservations.
    - Add columns such as `Name`, `Date`, `Time`, `People`, `Email`, `Status`, `Confirm Checkbox`, `Reject Checkbox`, etc.
+   - Add a ProcessedIDs Sheet to avoid double entries. (Make sure to tell the User never to touch this!)
    - Optionally, create an archive sheet to store processed reservations.
 
 #### Step 2: Set Up Google Apps Script
